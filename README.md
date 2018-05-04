@@ -1,6 +1,8 @@
 # D3 v4 Basic Zoom
 
-Zoom a single svg circle
+Zoom a single svg circle.
+
+This example zooms from where every your mouse is pointed.
 
 Running on [gh-pages](https://shanegibney.github.io/d3-v4-Basic-Zoom/)
 
